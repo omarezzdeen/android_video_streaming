@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">android_video_streaming</string>
+    <string name="edit_book">Edit Book</string>
+    <string name="book_name">Book name</string>
+    <string name="book_author">Book author</string>
+    <string name="launch_year">Launch Year</string>
+    <string name="price">Price</string>
+    <string name="delete_book">Delete Book</string>
+    <string name="add_book">Add Book</string>
+    <string name="my_library">MyLibrary</string>
+    <string name="edit">Edit</string>
+    <string name="upload_video_demo">Upload Video Demo</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
